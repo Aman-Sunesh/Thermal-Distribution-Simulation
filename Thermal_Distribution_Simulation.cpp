@@ -1,7 +1,6 @@
 /*----------------------------------------*/
 /* Name: Aman Sunesh, NetID: as18181      */
 /* Date: November 19, 2023                */
-/* Program: MechanicalEngineering.cpp     */
 /* Description: This program simulates    */
 /* thermal  dissipation  in  a thin metal */
 /* plate  with  constant  (isothermal)    */
